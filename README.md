@@ -1,15 +1,14 @@
-<h1 align="center" id="title">f90-Proyects</h1>
 
-<p align="center"><img src="https://socialify.git.ci/VillarPedr0/f90-proyects/image?font=Inter&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Charlie%20Brown&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
+#  Fortran 90 Proyects
 
-<p id="description">Shorts proyects made in Fortran</p>
+This repository is a meticulously crafted collection of Fortran 90 exercises and projects, meticulously curated and authored by a single dedicated expert in the field. The content here is designed to provide an enriching and challenging experience for Fortran enthusiasts who seek to elevate their programming prowess and delve into the intricacies of the language.
 
-<p align="center"><img src="https://img.shields.io/github/last-commit/VillarPedr0/f90-proyects" alt="shields"><img src="https://img.shields.io/github/languages/code-size/VillarPedr0/f90-proyects" alt="shields"></p>
+As a solo-authored repository, each exercise and project reflects a deep understanding of Fortran's nuances, best practices, and performance optimization. From classic algorithms like the Sieve of Eratosthenes and Fibonacci series to complex matrix operations, each implementation exemplifies elegance, efficiency, and readability.
 
-  
-  
-<h2>💻 Built with</h2>
+For learners, this repository serves as an invaluable educational resource, guiding them through the foundations of Fortran and cultivating a mastery of the language through hands-on practice. Experienced programmers will find opportunities to fine-tune their skills and explore advanced topics.
 
-Technologies used in the project:
 
-*   Fortran
+## Authors
+
+- [@VillarPedr0](https://github.com/VillarPedr0)
+
